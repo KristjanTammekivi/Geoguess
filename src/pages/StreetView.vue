@@ -235,7 +235,7 @@ export default {
             endTime: null,
             hasTimerStarted: false,
             hasLocationSelected: false,
-            overlay: true,
+            overlay: false,
             room: null,
             isReady: false,
             dialogMessage: this.multiplayer,

@@ -8,7 +8,7 @@
             map-type-id="roadmap"
             :options="{
                 fullscreenControl: false,
-                mapTypeControl: false,
+                mapTypeControl: true,
                 streetViewControl: false,
                 draggableCursor: 'crosshair',
                 clickableIcons: false,
